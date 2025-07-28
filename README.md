@@ -3,8 +3,6 @@
   <img src="https://imgs.search.brave.com/2CH60sY5GbhPH2upmljEl7Bibk91mGA4LD5T9wRLW5Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90by1ncmF0aXMv/Y29uY2VwdG8tc2Vn/dXJpZGFkLWNpYmVy/bmV0aWNhLWFydGUt/ZGlnaXRhbF8yMy0y/MTUxNjM3NzYwLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDA" alt="Masterhead" />
 </p>
 
-<h1>Cybersecurity Portfolio</h1>
-
 ## 🧾 Professional Statement
 
 I am currently enrolled in the **Google Cybersecurity Professional Certificate** program, driven by a deep interest in digital safety and the protection of both individuals and organizations. 
