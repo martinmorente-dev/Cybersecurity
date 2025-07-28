@@ -48,21 +48,6 @@ My goal is to contribute to a **safer, more ethical digital environment** and co
   Covers risk identification, analysis, and mitigation strategies.
 
 ---
----
-
-## 🧪 Simulated / Academic Projects (TODO)
-
-### 📌 Example
-
-**Summary:**  
-Researched the 2021 T-Mobile data breach to better understand real-world cybersecurity challenges. Analyzed the exploited vulnerabilities and the organization's response.
-
-**Skills Applied:**  
-- Threat research  
-- Basic risk analysis  
-- Technical writing
-
----
 
 ### 📌 Explainer: What is the CIA Triad?
 
