@@ -49,6 +49,8 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | AWS Academy Cloud Foundations | AWS Academy | In progress | [View details](certifications/aws-cloud-foundations/) |
 | AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](certifications/aws-cloud-security/) |
 | Cisco CyberOps | Cisco Networking Academy | In progress | [View details](certifications/cisco-cyberops/) |
+| Ethical Hacker | Cisco Networking Academy | In progress | [View details](certifications/cisco-cyberops/) |
+
 
 ## Skills
 
