@@ -63,6 +63,14 @@ Practical exercises completed during courses, platforms, or personal study. Each
 - SQL and data analysis
 - PHP and web development
 - Security documentation and incident reporting
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Nikto
+- Hydra
+- Metasploit Framework
+- Searchsploit
 
 ### Tools
 
@@ -73,6 +81,16 @@ Practical exercises completed during courses, platforms, or personal study. Each
 - Wireshark
 - Nmap
 - SQL
+
+### Offensive Security and Ethical Hacking
+
+- Reconnaissance and information gathering
+- Network and service scanning
+- Vulnerability identification
+- Web application security basics
+- Password attack concepts
+- Exploitation fundamentals in controlled environments
+- Security assessment documentation
 
 ## Contact
 
