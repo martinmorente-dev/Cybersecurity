@@ -48,7 +48,7 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | Cisco CyberOps | Cisco Networking Academy | In progress | [View details](https://github.com/martinmorente-dev/Cisco-Cyberops) |
 | Ethical Hacker | Cisco Networking Academy | In progress | [View details](https://github.com/martinmorente-dev/Ethical-Hacker) |
 | AWS Academy Cloud Foundations | AWS Academy | In progress | [View details](https://github.com/martinmorente-dev/AWS-Academy-Cloud-Foundations) |
-| AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](https://github.com/martinmorente-dev/AWS-Academy-Cloud-Security-Foundations) |
+| AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](https://github.com/martinmorente-dev/AWS-Academy-Security-Cloud-Foundations) |
 
 
 <!--| Google Cybersecurity Professional Certificate | Google / Coursera | In progress | [View progress and labs](certifications/google-cybersecurity/) | -->
