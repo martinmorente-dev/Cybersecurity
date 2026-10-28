@@ -20,6 +20,8 @@ I am especially interested in:
 - Cloud security
 - Web application security
 - Security automation and scripting
+- DFIR (Forensics & Incident Response)
+- Purple team
 
 ## Projects
 
