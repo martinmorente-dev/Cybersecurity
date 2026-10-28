@@ -35,7 +35,7 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | Lab | Source | Area | Write-up |
 |---|---|---|---|
 | Google Cybersecurity Labs | Google Cybersecurity Certificate | Security Fundamentals | [View labs](labs/google-cybersecurity/) |
-| TryHackMe Labs | TryHackMe | Offensive and defensive security | [View labs](labs/tryhackme/) |
+<!--| TryHackMe Labs | TryHackMe | Offensive and defensive security | [View labs](labs/tryhackme/) |-->
 | Cisco CyberOps Labs | Cisco Networking Academy | Incident response and network security | [View labs](labs/cisco-cyberops/) |
 
 ## Certifications and Training
