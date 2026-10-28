@@ -45,7 +45,7 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | Certification | Provider | Status | Documentation |
 |---|---|---|---|
 | Google Cybersecurity Professional Certificate | Google / Coursera | In progress | [View progress and labs](certifications/google-cybersecurity/) |
-| AWS Academy Cloud Foundations | AWS Academy | Completed / In progress | [View details](certifications/aws-cloud-foundations/) |
+| AWS Academy Cloud Foundations | AWS Academy | In progress | [View details](certifications/aws-cloud-foundations/) |
 | AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](certifications/aws-cloud-security/) |
 | Cisco CyberOps | Cisco Networking Academy | In progress | [View details](certifications/cisco-cyberops/) |
 
