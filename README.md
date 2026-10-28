@@ -35,7 +35,7 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | Lab | Source | Area | Write-up |
 |---|---|---|---|
 | Cisco CyberOps Labs | Cisco Networking Academy | Incident response and network security | [View labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/blob/main/README.md) |
-| Ethical Hacker | Cisco Networking Academy | Ethical hacking | [View labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/blob/main/README.md) |
+| Ethical Hacker Labs | Cisco Networking Academy | Ethical hacking | [View labs](https://github.com/martinmorente-dev/Ethical-Hacker-Labs) |
 
 <!-- ADD int he future  -->
 <!--| TryHackMe Labs | TryHackMe | Offensive and defensive security | [View labs](labs/tryhackme/) |-->
@@ -45,12 +45,13 @@ Practical exercises completed during courses, platforms, or personal study. Each
 
 | Certification | Provider | Status | Documentation |
 |---|---|---|---|
-| Google Cybersecurity Professional Certificate | Google / Coursera | In progress | [View progress and labs](certifications/google-cybersecurity/) |
-| AWS Academy Cloud Foundations | AWS Academy | In progress | [View details](certifications/aws-cloud-foundations/) |
-| AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](certifications/aws-cloud-security/) |
-| Cisco CyberOps | Cisco Networking Academy | In progress | [View details](certifications/cisco-cyberops/) |
-| Ethical Hacker | Cisco Networking Academy | In progress | [View details](certifications/cisco-cyberops/) |
+| Cisco CyberOps | Cisco Networking Academy | In progress | [View details](https://github.com/martinmorente-dev/Cisco-Cyberops) |
+| Ethical Hacker | Cisco Networking Academy | In progress | [View details](https://github.com/martinmorente-dev/Ethical-Hacker) |
+| AWS Academy Cloud Foundations | AWS Academy | In progress | [View details](https://github.com/martinmorente-dev/AWS-Academy-Cloud-Foundations) |
+| AWS Academy Cloud Security Foundations | AWS Academy | Planned / In progress | [View details](https://github.com/martinmorente-dev/AWS-Academy-Cloud-Security-Foundations) |
 
+
+<!--| Google Cybersecurity Professional Certificate | Google / Coursera | In progress | [View progress and labs](certifications/google-cybersecurity/) | -->
 
 ## Skills
 
