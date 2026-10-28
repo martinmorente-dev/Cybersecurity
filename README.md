@@ -27,10 +27,6 @@ Personal and collaborative cybersecurity projects. Each project has its own fold
 
 | Project | Area | Description | Status |
 |---|---|---|---|
-| [Linux Hardening](projects/linux-hardening/) | System Security | Hardening a Linux system: users, permissions, services, firewall, and logging. | In progress |
-| [Log Analysis](projects/log-analysis/) | Blue Team | Analyzing authentication and system logs to detect suspicious activity. | Planned |
-| [Web Security Basics](projects/web-security/) | Web Security | Identifying and documenting common web vulnerabilities in a controlled environment. | Planned |
-| [Home Lab](projects/home-lab/) | Infrastructure | Building a local cybersecurity lab with virtual machines and isolated networking. | Planned |
 
 ## Labs and Write-ups
 
