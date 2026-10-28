@@ -35,6 +35,8 @@ Practical exercises completed during courses, platforms, or personal study. Each
 | Lab | Source | Area | Write-up |
 |---|---|---|---|
 | Cisco CyberOps Labs | Cisco Networking Academy | Incident response and network security | [View labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/blob/main/README.md) |
+| Ethical Hacker | Cisco Networking Academy | Ethical hacking | [View labs](https://github.com/martinmorente-dev/Cisco-CyberOps-Labs/blob/main/README.md) |
+
 <!--| TryHackMe Labs | TryHackMe | Offensive and defensive security | [View labs](labs/tryhackme/) |-->
 <!--| Google Cybersecurity Labs | Google Cybersecurity Certificate | Security Fundamentals | [View labs](labs/google-cybersecurity/) | -->
 
