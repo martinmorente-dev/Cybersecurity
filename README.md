@@ -96,7 +96,3 @@ Practical exercises completed during courses, platforms, or personal study. Each
 - Password attack concepts
 - Exploitation fundamentals in controlled environments
 - Security assessment documentation
-
-## Contact
-
-- GitHub: [martinmorente-dev](https://github.com/martinmorente-dev)
