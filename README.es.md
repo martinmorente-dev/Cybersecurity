@@ -96,6 +96,3 @@ Ejercicios prácticos realizados durante cursos, plataformas o estudio personal.
 - Fundamentos de explotación en entornos controlados
 - Documentación de evaluaciones de seguridad
 
-## Contacto
-
-- GitHub: [martinmorente-dev](https://github.com/martinmorente-dev)
